@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1888b53386bfc2943b3df927a93fd43c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - github-octicons
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 34f9f68032fb2b64d86ed65b1974dd47, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
